@@ -66,16 +66,8 @@ Add "Was this article helpful?" at the end or start or both of article with thum
 
 == Changelog ==
 = 1.0 =
-* Default:Add "Was this article helpful?" at the Start/End or on both of content with Thumbsup to Share and Thumbsdown for feedback to author.
-= 1.1 =
-* Resolved the issue with keep getting the message, "There was a problem. Please try again".
-= 1.2 =
-* Font size and color for thumbs up and thuumbs down is added.
-* Localization also added.
-= 1.3 =
-* Version 1.2 color, erroe resolved
-= 1.4 =
-* Version 1.3 jQuery fixed for $, and new notes added
+* initial
+
 == License ==
 
 Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, you can thank me and leave a rating for the time I've spent writing and supporting this plugin. And We really don't want to know how many hours of my life this plugin has already eaten ;)
