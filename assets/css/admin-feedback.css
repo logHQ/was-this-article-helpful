@@ -1,0 +1,109 @@
+input[type=checkbox].css-checkbox {
+							position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
+						}
+
+						input[type=checkbox].css-checkbox + label.css-label {
+							padding-left:29px;
+							height:24px; 
+							display:inline-block;
+							line-height:24px;
+							background-repeat:no-repeat;
+							background-position: 0 0;
+							display: block;
+    						margin: 2px;
+							vertical-align:middle;
+							cursor:pointer;
+
+						}
+
+						input[type=checkbox].css-checkbox:checked + label.css-label {
+							background-position: 0 -24px;
+						}
+						label.css-label {
+				background-image:url(../images/csscheckbox.png);
+				-webkit-touch-callout: none;
+				-webkit-user-select: none;
+				-khtml-user-select: none;
+				-moz-user-select: none;
+				-ms-user-select: none;
+				user-select: none;
+			}
+
+	.activate-boxed-highlight {
+    margin-top: 2em;
+    max-width: 66%;
+    background: #fff;
+    padding: 30px;
+    margin-right: 10px;
+    float: left;
+}
+.activate-boxed-option {
+    background: #F9F9F9;
+    border-radius: 0.5em;
+    margin-bottom: 0.5em;
+    overflow: hidden;
+    padding: 1.5em;
+}
+.activate-boxed-option em {
+    display: block;
+    font-weight: bold;
+    font-size: 12px;
+}
+.activate-boxed-option output#fontsize {
+    padding: 18px;
+    position: relative;
+    bottom: 10px;
+    color: #16191B;
+    font-weight: bold;
+}
+.wrap h2.boxed-header{
+     padding: 1.2em;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    background: #00b7ea;
+    background: -moz-linear-gradient(top, #00b7ea 0%, #009ec3 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00b7ea), color-stop(100%,#009ec3));
+    background: -webkit-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+    background: -o-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+    background: -ms-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+    background: linear-gradient(to bottom, #00b7ea 0%,#009ec3 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 );
+    border-color: #0082A3;
+    color: #fff;
+
+}
+.activate-use-option.sidebox.first-sidebox {
+   background: #e3e3e3;
+    width: 26%;
+    float: right;
+    -moz-border-radius: 0.5em 0.5em 0.5em 0.5em;
+    padding: 1.5em;
+    /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+    -webkit-border-radius: 0.5em; 
+
+    /* Firefox 1-3.6 */
+    -moz-border-radius: 0.5em; 
+     /* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+    border-radius: 0.5em;
+    margin-top: 2em;
+  }
+  .activate-use-option.sidebox.first-sidebox padding{
+  	width: 95%;
+  	padding: 5px;
+  }
+  p.submit .button-primary{
+    background: #00b7ea;
+    background: -moz-linear-gradient(top, #00b7ea 0%, #009ec3 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00b7ea), color-stop(100%,#009ec3));
+    background: -webkit-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+    background: -o-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+    background: -ms-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+    background: linear-gradient(to bottom, #00b7ea 0%,#009ec3 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 );
+    border-color: #0082A3;
+    color: #fff;
+    height: 3em;
+    text-align: center;
+    margin-left: 23em;
+  }

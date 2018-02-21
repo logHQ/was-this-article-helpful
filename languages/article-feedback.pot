@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: article-feedback\n"
+"POT-Creation-Date: 2016-04-21 15:08+0545\n"
+"PO-Revision-Date: 2016-04-21 15:09+0545\n"
+"Last-Translator: ThemeIdol <themeidol@gmail.com>\n"
+"Language-Team: themeidol <themeidol@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: article-feedback;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../plugin.php:137
+msgid "Was this article helpful?"
+msgstr ""
+
+#: ../plugin.php:151
+msgid "Awesome, share it:"
+msgstr ""
+
+#: ../plugin.php:153
+msgid "Share"
+msgstr ""
+
+#: ../plugin.php:156
+msgid "Tweet"
+msgstr ""
+
+#: ../plugin.php:159
+msgid "Google Plus"
+msgstr ""
+
+#: ../plugin.php:162
+msgid "LinkedIn"
+msgstr ""
+
+#: ../plugin.php:166
+msgid "Thanks!"
+msgstr ""
+
+#: ../plugin.php:166
+msgid "Thanks for getting in touch with us."
+msgstr ""
+
+#: ../plugin.php:171
+msgid "Help us improve. Give us your feedback:"
+msgstr ""
+
+#: ../plugin.php:173
+msgid "Your Full Name:"
+msgstr ""
+
+#: ../plugin.php:175
+msgid "Your email address:"
+msgstr ""
+
+#: ../plugin.php:179
+msgid "Submit"
+msgstr ""
+
+#: ../plugin.php:266
+msgid "Article Feedback Settings"
+msgstr ""
+
+#: ../plugin.php:276
+msgid "Instruction to use Plugin"
+msgstr ""
+
+#: ../plugin.php:278
+msgid "Using Shortcode"
+msgstr ""
+
+#: ../plugin.php:279
+msgid "You can place the shortcode"
+msgstr ""
+
+#: ../plugin.php:279
+msgid "wherever you want to display the Article Feedback."
+msgstr ""
+
+#: ../plugin.php:295
+msgid "Select Position"
+msgstr ""
+
+#: ../plugin.php:298
+msgid "Before Content"
+msgstr ""
+
+#: ../plugin.php:300
+msgid "After Content"
+msgstr ""
+
+#: ../plugin.php:305
+msgid "Show on"
+msgstr ""
+
+#: ../plugin.php:308
+msgid "Home Page"
+msgstr ""
+
+#: ../plugin.php:310
+msgid "Pages"
+msgstr ""
+
+#: ../plugin.php:312
+msgid "Posts"
+msgstr ""
+
+#: ../plugin.php:314
+msgid "Archives"
+msgstr ""
+
+#: ../plugin.php:318
+msgid "Title Phrase (Was this article helpful?)"
+msgstr ""
+
+#: ../plugin.php:321
+msgid ""
+"Keep this section blank, if you want default phrase with its respective "
+"language or enter phrase of your choice, like Did this page help you? or Was "
+"this review useful?"
+msgstr ""
+
+#: ../plugin.php:326
+msgid "Exclude on"
+msgstr ""
+
+#: ../plugin.php:329
+msgid "Comma seperated post id's Eg:"
+msgstr ""
+
+#: ../plugin.php:333
+msgid "Font Size"
+msgstr ""
+
+#: ../plugin.php:336
+msgid "Thumbs Up and Down Font Size"
+msgstr ""
+
+#: ../plugin.php:340
+msgid "Thumbs Up color"
+msgstr ""
+
+#: ../plugin.php:346
+msgid "Thumbs Down Color"
+msgstr ""
+
+#: ../plugin.php:352
+msgid "Thumbs Down Email To"
+msgstr ""
+
+#: ../plugin.php:355
+msgid ""
+"If Empty Then Feedback Mail would Directly Go To Post/Page Author's Email"
+msgstr ""
+
+#: ../plugin.php:361
+msgid "Save Changes"
+msgstr ""
+
+#: ../plugin.php:388
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../plugin.php:391
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../plugin.php:397
+msgid "Feedback For:"
+msgstr ""
+
+#: ../plugin.php:397
+msgid "Feedback URL:"
+msgstr ""
+
+#: ../plugin.php:397
+msgid "Feedack Message:"
+msgstr ""
+
+#: ../plugin.php:397
+msgid "Feedback From: "
+msgstr ""
+
+#: ../plugin.php:397
+msgid "Full Name: "
+msgstr ""
+
+#: ../plugin.php:406
+msgid "Feedback For: "
+msgstr ""
+
+#: ../plugin.php:410
+msgid "There was a problem. Please try again."
+msgstr ""

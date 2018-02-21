@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-article-feedback\n"
+"POT-Creation-Date: 2016-04-21 15:08+0545\n"
+"PO-Revision-Date: 2016-04-26 11:35+0545\n"
+"Last-Translator: ThemeIdol <themeidol@gmail.com>\n"
+"Language-Team: themeidol <themeidol@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Plural-Forms: wp-article-feedback;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../plugin.php:137
+msgid "Was this article helpful?"
+msgstr "Was this article helpful?"
+
+#: ../plugin.php:151
+msgid "Awesome, share it:"
+msgstr "Awesome, share it:"
+
+#: ../plugin.php:153
+msgid "Share"
+msgstr "Share"
+
+#: ../plugin.php:156
+msgid "Tweet"
+msgstr "Tweet"
+
+#: ../plugin.php:159
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../plugin.php:162
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../plugin.php:166
+msgid "Thanks!"
+msgstr "Thanks!"
+
+#: ../plugin.php:166
+msgid "Thanks for getting in touch with us."
+msgstr "Thanks for getting in touch with us."
+
+#: ../plugin.php:171
+msgid "Help us improve. Give us your feedback:"
+msgstr "Help us improve. Give us your feedback:"
+
+#: ../plugin.php:173
+msgid "Your Full Name:"
+msgstr "Your Full Name:"
+
+#: ../plugin.php:175
+msgid "Your email address:"
+msgstr "Your email address:"
+
+#: ../plugin.php:179
+msgid "Submit"
+msgstr "Submit"
+
+#: ../plugin.php:266
+msgid "Article Feedback Settings"
+msgstr "Article Feedback Settings"
+
+#: ../plugin.php:276
+msgid "Instruction to use Plugin"
+msgstr "Instruction to use Plugin"
+
+#: ../plugin.php:278
+msgid "Using Shortcode"
+msgstr "Using Shortcode"
+
+#: ../plugin.php:279
+msgid "You can place the shortcode"
+msgstr "You can place the shortcode"
+
+#: ../plugin.php:279
+msgid "wherever you want to display the Article Feedback."
+msgstr "wherever you want to display the Article Feedback."
+
+#: ../plugin.php:295
+msgid "Select Position"
+msgstr "Select Position"
+
+#: ../plugin.php:298
+msgid "Before Content"
+msgstr "Before Content"
+
+#: ../plugin.php:300
+msgid "After Content"
+msgstr "After Content"
+
+#: ../plugin.php:305
+msgid "Show on"
+msgstr "Show on"
+
+#: ../plugin.php:308
+msgid "Home Page"
+msgstr "Home Page"
+
+#: ../plugin.php:310
+msgid "Pages"
+msgstr "Pages"
+
+#: ../plugin.php:312
+msgid "Posts"
+msgstr "Posts"
+
+#: ../plugin.php:314
+msgid "Archives"
+msgstr "Archives"
+
+#: ../plugin.php:318
+msgid "Title Phrase (Was this article helpful?)"
+msgstr "Title Phrase (Was this article helpful?)"
+
+#: ../plugin.php:321
+msgid ""
+"Keep this section blank, if you want default phrase with its respective "
+"language or enter phrase of your choice, like Did this page help you? or Was "
+"this review useful?"
+msgstr ""
+"Keep this section blank, if you want default phrase with its respective "
+"language or enter phrase of your choice, like Did this page help you? or Was "
+"this review useful?"
+
+#: ../plugin.php:326
+msgid "Exclude on"
+msgstr "Exclude on"
+
+#: ../plugin.php:329
+msgid "Comma seperated post id's Eg:"
+msgstr "Comma seperated post id's Eg:"
+
+#: ../plugin.php:333
+msgid "Font Size"
+msgstr "Font Size"
+
+#: ../plugin.php:336
+msgid "Thumbs Up and Down Font Size"
+msgstr "Thumbs Up and Down Font Size"
+
+#: ../plugin.php:340
+msgid "Thumbs Up color"
+msgstr "Thumbs Up color"
+
+#: ../plugin.php:346
+msgid "Thumbs Down Color"
+msgstr "Thumbs Down Color"
+
+#: ../plugin.php:352
+msgid "Thumbs Down Email To"
+msgstr "Thumbs Down Email To"
+
+#: ../plugin.php:355
+msgid ""
+"If Empty Then Feedback Mail would Directly Go To Post/Page Author's Email"
+msgstr ""
+"If Empty Then Feedback Mail would Directly Go To Post/Page Author's Email"
+
+#: ../plugin.php:361
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../plugin.php:388
+msgid "Please enter your email address."
+msgstr "Please enter your email address."
+
+#: ../plugin.php:391
+msgid "You entered an invalid email address."
+msgstr "You entered an invalid email address."
+
+#: ../plugin.php:397
+msgid "Feedback For:"
+msgstr "Feedback For:"
+
+#: ../plugin.php:397
+msgid "Feedback URL:"
+msgstr "Feedback URL:"
+
+#: ../plugin.php:397
+msgid "Feedack Message:"
+msgstr "Feedack Message:"
+
+#: ../plugin.php:397
+msgid "Feedback From: "
+msgstr "Feedback From:"
+
+#: ../plugin.php:397
+msgid "Full Name: "
+msgstr "Full Name:"
+
+#: ../plugin.php:406
+msgid "Feedback For: "
+msgstr "Feedback For: "
+
+#: ../plugin.php:410
+msgid "There was a problem. Please try again."
+msgstr "There was a problem. Please try again."
