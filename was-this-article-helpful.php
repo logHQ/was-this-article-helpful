@@ -109,7 +109,7 @@ class Articlefeedback {
 	*/
 	public function feedback_content() {
 		global $post;
-		$feedack_options = $this->get_feedback_options('feedback_options');
+		$feedback_options = $this->get_feedback_options('feedback_options');
 		$title_phrase=$feedback_options['ss-title-phrase'];
 		if($title_phrase!=""):
 			$title_phrase=$title_phrase;	
