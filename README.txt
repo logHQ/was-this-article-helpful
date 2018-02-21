@@ -7,6 +7,7 @@ Tested up to: 4.7.4
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Credit: https://wordpress.org/plugins/wp-article-feedback/
 Add "Was this article helpful?" at the Start/End or on both of content with Thumbsup to Share and Thumbsdown for feedback to author. 
 
 
