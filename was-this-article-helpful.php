@@ -92,7 +92,7 @@ class Articlefeedback {
     function register_plugin_admin_styles(){
        	wp_enqueue_style( 'wp-color-picker' );
         wp_enqueue_script('feedback-admin-custom-script', plugins_url( 'assets/js/article-feedback-admin.js', __FILE__ ), array('jquery','wp-color-picker'), self::VERSION, 'all' );
-        wp_register_style( 'feedback-admin_css', plugin_dir_url(__FILE__) . '/assets/css/admin-feedback.css', false, $version );
+        wp_register_style( 'feedback-admin_css', plugin_dir_url(__FILE__) . '/assets/css/admin-feedback.css', false, VERSION );
         wp_enqueue_style( 'feedback-admin_css' );
                 
     }
