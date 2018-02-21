@@ -17,7 +17,7 @@ License: GNU General Public License see <http://www.gnu.org/licenses/>.
 class Articlefeedback {
 	private static $instance;
     
-    define("VERSION","1.0");
+    const VERSION = 1.0;
 
 	private static function has_instance() {
 		return isset( self::$instance ) && null != self::$instance;
