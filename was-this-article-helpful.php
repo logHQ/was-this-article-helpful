@@ -54,7 +54,7 @@ class Articlefeedback {
 		//Ajax to send feedback by mail	
 		add_action('wp_ajax_join_mailinglist', array( $this,'feedback_sendmail'));
 		add_action('wp_ajax_nopriv_join_mailinglist', array( $this,'feedback_sendmail'));
-		//Language Support For Article Feedback
+		//Language Support For Was this article helpful?
 		add_action( 'plugins_loaded', array($this,'feedback_load_textdomain') );
 
 	}
@@ -227,7 +227,7 @@ class Articlefeedback {
 	 */
 	public function register_submenu(){
 
-		add_submenu_page( 'options-general.php', 'Article Feedback settings', 'Article Feedback', 'activate_plugins', 'article-feeback-settings', array( $this, 'submenu_page' ) );
+		add_submenu_page( 'options-general.php', 'Was this article helpful? settings', 'Was this article helpful?', 'activate_plugins', 'article-feeback-settings', array( $this, 'submenu_page' ) );
 
 	}
 
@@ -241,7 +241,7 @@ class Articlefeedback {
 	public function submenu_page() {
 		?>
 		<div class="wrap">
-			<h2 class="boxed-header"><?php  _e('Article Feedback Settings','wp-article-feedback');?></h2>
+			<h2 class="boxed-header"><?php  _e('Was this article helpful? Settings','wp-article-feedback');?></h2>
 			<div class="activate-boxed-highlight activate-boxed-option">
 				<form method="POST" action="options.php">
 				<?php settings_fields('feedback_options'); ?>
@@ -254,7 +254,7 @@ class Articlefeedback {
 	          	<h3><?php  _e('Instruction to use Plugin','wp-article-feedback');?></h3>
 	        	<hr />
 	        	<h3><?php _e('Using Shortcode','wp-article-feedback');?></h3>
-	        	<p><?php _e('You can place the shortcode','wp-article-feedback')?></p><p><code>[feedback_prompt]</code></p><p><?php _e('wherever you want to display the Article Feedback.','wp-article-feedback');?></p>
+	        	<p><?php _e('You can place the shortcode','wp-article-feedback')?></p><p><code>[feedback_prompt]</code></p><p><?php _e('wherever you want to display the Was this article helpful?.','wp-article-feedback');?></p>
 	        	<hr />
 	        </div>
 		</div>
